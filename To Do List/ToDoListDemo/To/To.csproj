@@ -77,6 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\ToDoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -93,8 +94,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ToDoBusinesslayer\ToDoBusinesslayer.csproj">
+      <Project>{ea182032-2be9-4dac-bca8-9a1d20cfa062}</Project>
+      <Name>ToDoBusinesslayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToDoModel\ToDoModel.csproj">
+      <Project>{e1d23f54-169f-4102-8cda-3fe7002a4262}</Project>
+      <Name>ToDoModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

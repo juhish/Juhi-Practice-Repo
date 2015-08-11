@@ -1,0 +1,7 @@
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\obj\Debug\ToDoBusinesslayer.csprojResolveAssemblyReference.cache
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\bin\Debug\ToDoBusinesslayer.dll
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\bin\Debug\ToDoBusinesslayer.pdb
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\bin\Debug\ToDoModel.dll
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\bin\Debug\ToDoModel.pdb
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\obj\Debug\ToDoBusinesslayer.dll
+D:\JUHI\DotNet\Git Repo\Juhi-Practice-Repoo\To Do List\ToDoListDemo\ToDoBusinesslayer\obj\Debug\ToDoBusinesslayer.pdb
