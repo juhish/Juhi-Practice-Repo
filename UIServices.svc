@@ -1,1 +1,0 @@
-<%@ ServiceHost Language="C#" Debug="false" Service="Homesite.ECommerce.ServiceLibrary.UIServices" %>
